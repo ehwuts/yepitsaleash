@@ -1,6 +1,4 @@
-Precompiled Jar
-===============
-[v1.01-1.7.10](http://soulraver.net/sukie/mc/yepitsaleash-1.01_1.7.10.jar)
+[Releases](https://github.com/ehwuts/yepitsaleash/releases)
 
 Project Usage
 =============
